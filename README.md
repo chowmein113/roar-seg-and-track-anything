@@ -27,7 +27,11 @@ Without a [segmentation tracker](https://github.com/airacingtech/roar-seg-and-tr
 , labeling video data with segmentation masks in CVAT would be
 [manually annotated by hand](https://github.com/airacingtech/roar-seg-and-track-anything/assets/83838942/87ed37ac-b8cf-4baa-8928-e24879cabb88)
 
-
+### Demo
+## Manual Annotation without Segmentation Tracker
+[https://github.com/airacingtech/roar-seg-and-track-anything/assets/83838942/7431caa6-2c41-4dc6-b89c-4fd6d793c607](https://github.com/airacingtech/roar-seg-and-track-anything/assets/83838942/87ed37ac-b8cf-4baa-8928-e24879cabb88)
+## Using the Segmentation Tracker
+https://github.com/airacingtech/roar-seg-and-track-anything/assets/83838942/7431caa6-2c41-4dc6-b89c-4fd6d793c607
 ## Installation
 
 ```bash
